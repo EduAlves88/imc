@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     padding: 10,
     fontSize: 50,
-    color: '#742',
+    color: '#777',
     fontWeight: 'bold',
   },
   resultado: {
