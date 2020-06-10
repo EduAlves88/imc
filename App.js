@@ -19,7 +19,7 @@ export default class App extends Component {
     s.resultado = imc;
 
     if (s.resultado < 16) {
-      s.resultadoText = '< 16 Magreza grave';
+      s.resultadoText = '< 16 Magreza grave!';
     } else if (s.resultado < 17) {
       s.resultadoText = '16 a < 17 Magreza moderada';
     } else if (s.resultado < 18.5) {
