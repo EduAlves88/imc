@@ -113,6 +113,6 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     color: 'gray',
     padding: 15,
-    fontSize: 20,
+    fontSize: 15,
   },
 });
