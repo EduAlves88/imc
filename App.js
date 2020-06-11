@@ -100,13 +100,13 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
     padding: 10,
     fontSize: 50,
-    color: '#777',
+    color: '#666',
     fontWeight: 'bold',
   },
   resultado: {
     alignSelf: 'center',
     color: 'gray',
-    padding: 15,
+    padding: 20,
     fontSize: 35,
   },
   massa: {
